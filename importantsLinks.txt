@@ -1,0 +1,2 @@
+https://www.raspberrypi.org/documentation/usage/camera/python/README.md
+http://links.twibright.com/user_en.html#subsubch-reload
